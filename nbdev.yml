@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "betting_rl_env"
+  site-url: "https://{user}.github.io/betting_rl_env/"
+  description: "{description}"
+  repo-branch: master
+  repo-url: "https://github.com/{user}/betting_rl_env/"
